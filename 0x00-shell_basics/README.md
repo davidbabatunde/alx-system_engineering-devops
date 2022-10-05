@@ -1,1 +1,1 @@
-Another readme
+This directory contains different shell commands stored in files that can be run directly. ps filename denotes what each command does.
